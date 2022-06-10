@@ -1,1 +1,1 @@
-# garden-coin-web
+# garden coin web
